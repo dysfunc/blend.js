@@ -1,6 +1,6 @@
 {
   "name": "blend.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "authors": [
     "Kieran Boyle <norcal.kieran@gmail.com>"
   ],
@@ -19,5 +19,12 @@
     "javascript",
     "merge",
     "shallow"
-  ]
+  ],
+  "homepage": "https://github.com/dysfunc/blend.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "ISC"
 }

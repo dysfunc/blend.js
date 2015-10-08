@@ -1,6 +1,6 @@
 {
   "name": "blend.js",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Micro-lib for performing shallow/deep copying of objects with support for array merging + dedup",
   "author": "Kieran Boyle <norcal.kieran@gmail.com>",
   "main": "lib",
