@@ -1,3 +1,3 @@
-var extend = require('./lib/blend');
+var blend = require('./lib/blend');
 
-module.exports = extend;
+module.exports = blend;
