@@ -1,0 +1,18 @@
+.*
+
+# except
+!.bowerrc
+!.editorconfig
+!.gitattributes
+!.gitignore
+!.gitkeep
+!.npmignore
+
+node_modules/
+bower_components/
+npm-debug.log
+
+# misc
+Thumbs.db
+.DS_Store
+
