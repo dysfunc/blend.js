@@ -19,6 +19,9 @@ npm install blend.js
 
 ```
 bower install blend.js
+
+// include the file inside your app
+<script type="text/javascript" src="/bower_components/blend/lib/blend.min.js"></script>
 ```
 
 ## Usage
