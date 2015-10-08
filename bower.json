@@ -1,11 +1,11 @@
 {
-  "name": "extend-js",
+  "name": "blend.js",
   "version": "1.0.0",
   "authors": [
     "Kieran Boyle <norcal.kieran@gmail.com>"
   ],
-  "description": "Micro-library for performing shallow/deep copying of objects with support of merging arrays",
-  "main": "lib/extend.js",
+  "description": "Micro-lib for performing shallow/deep copying of objects with support of merging arrays",
+  "main": "lib/blend.js",
   "ignore": [
     "**/.*",
     "test",

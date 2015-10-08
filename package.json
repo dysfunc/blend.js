@@ -1,14 +1,36 @@
 {
-  "name": "extend-js",
+  "name": "blend.js",
   "version": "1.0.0",
-  "description": "Micro-library for performing shallow/deep copying of objects with support of merging arrays",
-  "author": {
-    "name": "Kieran Boyle",
-    "email": "norcal.kieran@gmail.com"
-  },
+  "description": "Micro-lib for performing shallow/deep copying of objects with support of merging arrays",
+  "author": "Kieran Boyle <norcal.kieran@gmail.com>",
   "main": "lib",
   "homepage": "https://github.com/dysfunc",
   "engines": {
     "node": ">=0.10.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dysfunc/blend.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "merge",
+    "copy",
+    "deep",
+    "copy",
+    "extend",
+    "shallow",
+    "shallow",
+    "copy"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dysfunc/blend.js/issues"
   }
 }
