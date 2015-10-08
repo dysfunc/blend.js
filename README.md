@@ -21,7 +21,6 @@ npm install blend.js
 bower install blend.js
 ```
 
-
 ## Usage
 
 *Merge the contents of two or more objects into the target object.*
