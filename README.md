@@ -25,7 +25,7 @@ bower install blend.js
 
 *Merge the contents of two or more objects into the target object.*
 
-**Syntax:** extend **(** [`deep`], [`dedup`], `target`, `object1`, [`objectN`] **)**
+**Syntax:** blend **(** [`deep`], [`dedup`], `target`, `object1`, [`objectN`] **)**
 
 ### Arguments
 
