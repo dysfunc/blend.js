@@ -1,0 +1,23 @@
+{
+  "name": "extend-js",
+  "version": "1.0.0",
+  "authors": [
+    "Kieran Boyle <norcal.kieran@gmail.com>"
+  ],
+  "description": "Micro-library for performing shallow/deep copying of objects with support of merging arrays",
+  "main": "lib/extend.js",
+  "ignore": [
+    "**/.*",
+    "test",
+    "*.md",
+    "package.json"
+  ],
+  "keywords": [
+    "copy",
+    "extend",
+    "deep",
+    "javascript",
+    "merge",
+    "shallow"
+  ]
+}

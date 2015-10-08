@@ -1,0 +1,14 @@
+{
+  "name": "extend-js",
+  "version": "1.0.0",
+  "description": "Micro-library for performing shallow/deep copying of objects with support of merging arrays",
+  "author": {
+    "name": "Kieran Boyle",
+    "email": "norcal.kieran@gmail.com"
+  },
+  "main": "lib",
+  "homepage": "https://github.com/dysfunc",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
