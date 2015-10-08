@@ -1,5 +1,5 @@
 #blend.js
-Micro-lib for performing shallow/deep copying of objects, with support of merging arrays (+ dedupping)
+Micro-lib for performing shallow/deep copying of objects with support for array merging + dedup
 
 # Extend for all (Node.js + Browser)
 
@@ -44,7 +44,7 @@ One or more additional objects to merge with the first
 
 Shallow:
 ``` js
-var extend = require('extend'), // window.extend for browsers (`extend` is global)
+var blend = require('blend'), // window.blend for browsers (`blend` is global)
     target = {
       test: 'me'
     },
@@ -61,7 +61,7 @@ var extend = require('extend'), // window.extend for browsers (`extend` is globa
       }
     };
 
-extend(target, object1, object2);
+blend(target, object1, object2);
 
 // output
 {
@@ -74,7 +74,7 @@ extend(target, object1, object2);
 ```
 Deep copy:
 ```js
-extend(true, target, object1, object2);
+blend(true, target, object1, object2);
 
 // output
 {
@@ -88,7 +88,7 @@ extend(true, target, object1, object2);
 ```
 Deep copy + dedup:
 ```js
-extend(true, true, target, object1, object2);
+blend(true, true, target, object1, object2);
 
 // output
 {
