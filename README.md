@@ -42,7 +42,7 @@ One or more additional objects to merge with the first
 
 **Example:**
 
-Shallow:
+Shallow copy:
 ``` js
 var blend = require('blend'), // window.blend for browsers (`blend` is global)
     target = {
