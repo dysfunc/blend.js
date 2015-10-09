@@ -98,7 +98,7 @@ blend(true, true, target, object1, object2);
   hello: {
     first: 'kieran',
     name: 'world',
-    ids: [1,2,3,4,,5,6,7]
+    ids: [1,2,3,4,5,6,7]
   }
 }
 ```
