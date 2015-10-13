@@ -10,7 +10,10 @@
     "**/.*",
     "test",
     "*.md",
-    "package.json"
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "tests"
   ],
   "keywords": [
     "copy",
