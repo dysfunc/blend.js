@@ -1,6 +1,6 @@
 {
   "name": "blend.js",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "authors": [
     "Kieran Boyle <norcal.kieran@gmail.com>"
   ],
@@ -18,7 +18,10 @@
     "deep",
     "javascript",
     "merge",
-    "shallow"
+    "shallow",
+    "node",
+    "objects",
+    "arrays"
   ],
   "homepage": "https://github.com/dysfunc/blend.js",
   "moduleType": [

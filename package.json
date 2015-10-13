@@ -1,6 +1,6 @@
 {
   "name": "blend.js",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Micro-lib for performing shallow/deep copying of objects with support for array merging + dedup",
   "author": "Kieran Boyle <norcal.kieran@gmail.com>",
   "main": "lib",
@@ -21,13 +21,14 @@
   "keywords": [
     "javascript",
     "merge",
-    "copy",
     "deep",
     "copy",
     "extend",
     "shallow",
-    "shallow",
-    "copy"
+    "node",
+    "jquery",
+    "objects",
+    "arrays"
   ],
   "license": "ISC",
   "bugs": {
