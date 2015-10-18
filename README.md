@@ -1,5 +1,5 @@
 #blend.js
-Micro-lib for performing shallow/deep copying of objects with support for array merging + dedup
+Micro library for performing shallow/deep copying of objects with support for array merging + dedup
 
 # Extend for Node, CommonJS, Browserify, AMD and Browser
 
