@@ -4,7 +4,7 @@
   "authors": [
     "Kieran Boyle <norcal.kieran@gmail.com>"
   ],
-  "description": "Micro-lib for performing shallow/deep copying of objects with support for array merging + dedup",
+  "description": "Micro library for performing shallow/deep copying of objects with support for array merging + dedup",
   "main": "lib/blend.min.js",
   "ignore": [
     "**/.*",
