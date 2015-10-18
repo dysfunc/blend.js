@@ -1,7 +1,7 @@
 #blend.js
 Micro-lib for performing shallow/deep copying of objects with support for array merging + dedup
 
-# Extend for all (Node.js + Browser)
+# Extend for Node, CommonJS, Browserify, AMD and Browser
 
 `blend` is **NOT** a direct port of jQuery's extend() method. This lib follows the same approach that jQuery.extend does
 except it will handle the deep copying of arrays differently. jQuery will overwrite the index of an array during a deep copy
