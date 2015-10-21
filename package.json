@@ -19,8 +19,11 @@
     "url": "git://github.com/dysfunc/blend.js.git"
   },
   "keywords": [
-    "JavaScript",
-    "JS",
+    "blend",
+    "blendjs",
+    "blend.js",
+    "javascript",
+    "js",
     "merge",
     "deep",
     "copy",
